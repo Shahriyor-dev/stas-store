@@ -209,13 +209,19 @@ nav {
 
 .size-text {
     font-style: normal;
+    visibility: hidden;
     font-weight: 400;
     font-size: 24px;
     line-height: 29px;
     width: 1241px;
     margin-bottom: 30px;
     margin-top: 30px;
+    transition: all .5s ease-out;
     color: #000000;
+}
+
+.size-text.visible {
+    visibility: visible;
 }
 
 footer {

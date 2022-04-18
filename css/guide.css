@@ -34,10 +34,9 @@ nav {
     margin-left: 10px;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 20px;
+    line-height: 1.4;
     color: #000000;
-    width: 135px;
 }
 
 .nav-imgs {
